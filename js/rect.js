@@ -55,7 +55,7 @@ $(function(){
 		}
 		if(xxx >= cirarr.length){
 			var t = setTimeout(function(){
-				alert('宝宝，你真棒');
+				alert('感谢大佬，大佬真棒');
 				next();
 				clearTimeout(t);
 			},200)
